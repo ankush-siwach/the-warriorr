@@ -19,6 +19,26 @@
     
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>fill personal information</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body background="4K.jpg2.jpg"> 
+    <h1> sign in .....</h1>
+    <h1><pre><b> <p style="color:red"> First name <input  only text>                        Last name <input text></b></pre></h1>
+        <pre> <h1><b> <p style="color:blue"> Phone no.  <input number>                         Email id  <input email></h1></b></pre>
+      <pre> <h1><b> <p style="color:yellow"> create password <input number>             re-enter password  <input number></b></h1> </pre>
+    <a href="/project.html"target="_main2"> <pre>                                                              <img src="https://freepngimg.com/save/25497-submit-button-photos/600x198" width="200" alt="sumbit"></a></pre>
+    <a href="/project.html"target="_main2"> <pre>                                                         
+    
+</body>
+</html>
+
 <html>
     <head>
       <title>lets start</title>
